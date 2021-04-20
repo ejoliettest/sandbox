@@ -1,1 +1,2 @@
-Emmanuel Joliet (admin,IPAC)
+Emmanuel Joliet (admin,IPAC, ejoliet@caltech.edu)
+John Smith (student)
